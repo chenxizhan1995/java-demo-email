@@ -1,0 +1,7 @@
+spring:
+  mail:
+    protocol: smtps
+    host: smtp.163.com
+    username: chenxizhan1995dev@163.com
+    password: IJBCHCJLHSSANJWF
+    default-encoding: utf-8
